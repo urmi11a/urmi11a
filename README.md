@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on automted SQLi bypass tool
 - 🌱 I’m currently learning reverse engineering and malware analysis
 - 🤔 I’m looking for help with reverse engineering 
-- 💬 Ask me about cybersecurity/bug hunting/pentesting
+- 💬 Ask me about cybersecurity/bug hunting/CTF
 - 👩‍🎓Seeking for a cybersecurity job
 
 ### 📫 Get in touch:
